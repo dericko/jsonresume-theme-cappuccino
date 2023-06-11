@@ -2,10 +2,6 @@
 
 Cappuccino is a [JSON Resume](https://jsonresume.org/) theme based on [Macchiato](https://github.com/biosan/jsonresume-theme-macchiato) 
 
-## Why?
-
-Needed to modify some styles.
-
 ## Usage
 
 - In a new npm environment
